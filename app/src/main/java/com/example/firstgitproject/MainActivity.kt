@@ -13,5 +13,21 @@ class MainActivity : AppCompatActivity() {
         Toast.makeText(this, "toast number 1", Toast.LENGTH_SHORT).show()
         Toast.makeText(this, "toast number 2", Toast.LENGTH_SHORT).show()
         Toast.makeText(this, "toast number 3", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, "toast number 4", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, "toast number 5", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, "toast number 6", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, "toast number 7", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, "toast number 8", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, "toast number 9", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, "toast number 10", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, "toast number 10", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, "toast number 10", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, "toast number 10", Toast.LENGTH_SHORT).show()
+
+
+
+        kotlin.io.println("amin")
+
+
     }
 }
