@@ -26,6 +26,7 @@ class MainActivity : AppCompatActivity() {
 
 
         android.widget.Toast.makeText(this, "i am in develop branch", Toast.LENGTH_SHORT).show()
+        android.widget.Toast.makeText(this, "ami ramezani in class", Toast.LENGTH_SHORT).show()
 
         kotlin.io.println("amin")
 
